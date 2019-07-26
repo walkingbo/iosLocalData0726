@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  sqlite0726
+//  Sqlite0726
 //
 //  Created by 503_18 on 26/07/2019.
 //  Copyright © 2019 503_18. All rights reserved.

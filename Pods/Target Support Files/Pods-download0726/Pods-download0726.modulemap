@@ -1,0 +1,6 @@
+framework module Pods_download0726 {
+  umbrella header "Pods-download0726-umbrella.h"
+
+  export *
+  module * { export * }
+}
